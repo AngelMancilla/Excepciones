@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica try catch", "Practica try catch.csproj", "{724944D5-553D-4FC5-B19E-7B7CC42B316C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{724944D5-553D-4FC5-B19E-7B7CC42B316C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724944D5-553D-4FC5-B19E-7B7CC42B316C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724944D5-553D-4FC5-B19E-7B7CC42B316C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724944D5-553D-4FC5-B19E-7B7CC42B316C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36C296AE-B931-4C9A-A846-8904D5451BA4}
+	EndGlobalSection
+EndGlobal
