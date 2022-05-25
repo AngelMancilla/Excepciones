@@ -1,0 +1,7 @@
+C:\Users\angel\Documents\GitHub\Excepciones\Try Catch Numero al cuadrado\bin\Debug\Try Catch Numero al cuadrado.exe.config
+C:\Users\angel\Documents\GitHub\Excepciones\Try Catch Numero al cuadrado\bin\Debug\Try Catch Numero al cuadrado.exe
+C:\Users\angel\Documents\GitHub\Excepciones\Try Catch Numero al cuadrado\bin\Debug\Try Catch Numero al cuadrado.pdb
+C:\Users\angel\Documents\GitHub\Excepciones\Try Catch Numero al cuadrado\obj\Debug\Try Catch Numero al cuadrado.csproj.AssemblyReference.cache
+C:\Users\angel\Documents\GitHub\Excepciones\Try Catch Numero al cuadrado\obj\Debug\Try Catch Numero al cuadrado.csproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\GitHub\Excepciones\Try Catch Numero al cuadrado\obj\Debug\Try Catch Numero al cuadrado.exe
+C:\Users\angel\Documents\GitHub\Excepciones\Try Catch Numero al cuadrado\obj\Debug\Try Catch Numero al cuadrado.pdb
